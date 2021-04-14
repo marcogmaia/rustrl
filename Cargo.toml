@@ -8,6 +8,7 @@ edition = "2018"
 
 [dependencies]
 bracket-lib = ""
+bracket-terminal = ""
 bracket-random = ""
 specs = "0.16.1"
 specs-derive = ""
